@@ -1,0 +1,241 @@
+{
+  "engine": "h1-sweep",
+  "label": "Paper \u00b7 H1 sweep",
+  "paper": true,
+  "month": "2026-10",
+  "today": "2026-10-06",
+  "month_net": 0.0,
+  "n": 0,
+  "open_count": 0,
+  "margin_usdt": 100.0,
+  "leverage": 10,
+  "notional": 1000.0,
+  "fee_rt_usdt": 1.2,
+  "min_r": 2.0,
+  "max_r": 4.0,
+  "max_stop_pct": 0.02,
+  "session": "03:05\u201309:11 America/New_York",
+  "generated_at": "2026-10-07T02:18:26Z",
+  "last_scan": {},
+  "open": [],
+  "closed": [],
+  "days": [
+    {
+      "date": "2026-10-01",
+      "dom": 1,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-02",
+      "dom": 2,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-03",
+      "dom": 3,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-04",
+      "dom": 4,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-05",
+      "dom": 5,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-06",
+      "dom": 6,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-07",
+      "dom": 7,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-08",
+      "dom": 8,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-09",
+      "dom": 9,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-10",
+      "dom": 10,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-11",
+      "dom": 11,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-12",
+      "dom": 12,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-13",
+      "dom": 13,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-14",
+      "dom": 14,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-15",
+      "dom": 15,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-16",
+      "dom": 16,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-17",
+      "dom": 17,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-18",
+      "dom": 18,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-19",
+      "dom": 19,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-20",
+      "dom": 20,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-21",
+      "dom": 21,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-22",
+      "dom": 22,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-23",
+      "dom": 23,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-24",
+      "dom": 24,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-25",
+      "dom": 25,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-26",
+      "dom": 26,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-27",
+      "dom": 27,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-28",
+      "dom": 28,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-29",
+      "dom": 29,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-30",
+      "dom": 30,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    },
+    {
+      "date": "2026-10-31",
+      "dom": 31,
+      "n_full": 0,
+      "net_full": 0,
+      "trades": []
+    }
+  ]
+}

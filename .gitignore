@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+journal.db
+last_scan.json
+logs/
+state/
+sampler.pid
+.DS_Store
+node_modules/
+web/
