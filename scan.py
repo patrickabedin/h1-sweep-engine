@@ -166,7 +166,7 @@ def parse_iso(s: str) -> float:
 def manage_opens(con, now: float) -> int:
     closed = 0
     rows = list(con.execute("SELECT * FROM trades WHERE status='open'"))
-    cols = [d[0] for d in con.execute("PRAGMA table_info(trades)")]
+    cols = [d[1] for d in con.execute("PRAGMA table_info(trades)")]
     for raw in rows:
         trade = dict(zip(cols, raw))
         t_open = parse_iso(trade["opened_at_utc"])
